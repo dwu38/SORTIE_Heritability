@@ -1,0 +1,9 @@
+Points file for parameter file TestFile1.xml
+
+Timestep: 1
+X	Y	Height	GLI
+100	80	2	99.9869
+100	90	2	99.9869
+100	100	2	99.9869
+100	110	2	99.9869
+100	120	2	99.9869
